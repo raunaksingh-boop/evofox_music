@@ -3,3 +3,5 @@ tgcrypto
 py-tgcalls
 yt-dlp
 python-dotenv
+gunicorn
+
